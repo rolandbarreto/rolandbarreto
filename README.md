@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Roland Barreto, Cloud & Network Engineer. I'm into networking automation, cibersecurity, cloud and some other stuffs. 
+My name is Roland Barreto, Cloud & Network Engineer. I'm into networking automation, cybersecurity, cloud and some other stuffs. 
 
 🔭 I’m currently working on infrastructure as code.  
 🌱 I’m currently learning Cybersecurity.              
