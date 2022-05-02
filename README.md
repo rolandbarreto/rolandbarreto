@@ -1,7 +1,7 @@
 Hi 👋 My name is Roland Barreto
 ===============================
 
-Cloud and Network Engineer. I'm into networking automation, cybersecurity, cloud and some other stuffs. 🔭 I’m currently working on Networking, DevOps and Cybersecurity. 🌱 I’m currently learning about IaC, Python and Containers. 👯 I’m looking to collaborate on DevOps projects.
+Cloud and Network Engineer. I'm into networking automation, cybersecurity, cloud and some other stuffs. 
 
 * 🌍  I'm based in Nicaragua
 * ✉️  You can contact me at [rolandbarreto19@gmail.com](mailto:rolandbarreto19@gmail.com)
